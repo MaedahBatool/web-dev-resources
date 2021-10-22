@@ -24,4 +24,6 @@ A curated list of free web resources to kick start learning web development.
 
 ## Git
 
+- Git Tutorial: (https://www.w3schools.com/git/)
+
 ## Machine Learning
