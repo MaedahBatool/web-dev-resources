@@ -11,6 +11,8 @@ A curated list of free web resources to kick start learning web development.
 
 ## JavaScript
 
+- JavaScript Tutorial by W3Schools: (https://www.w3schools.com/js/)
+
 ## Python
 
 ## C/C++
