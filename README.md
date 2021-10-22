@@ -4,6 +4,7 @@ A curated list of free web resources to kick start learning web development.
 ## HTML
 
 - HTML Tutorial by W3Schools: (https://www.w3schools.com/html/)
+- HTML For Beginners: (https://www.udemy.com/course/hmtl5-training/)
 
 ## CSS
 
