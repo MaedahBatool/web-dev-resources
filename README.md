@@ -20,3 +20,4 @@ A curated list of free web resources to kick start learning web development.
 ## C/C++
 
 - C Programming by W3Schools: (https://www.w3schools.in/c-tutorial/)
+- C++ Programming Tutorial by W3Schools: (https://www.w3schools.com/CPP/default.asp)
