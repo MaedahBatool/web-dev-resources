@@ -15,4 +15,6 @@ A curated list of free web resources to kick start learning web development.
 
 ## Python
 
+- Python Tutorial by W3Schools: (https://www.w3schools.com/python/)
+
 ## C/C++
