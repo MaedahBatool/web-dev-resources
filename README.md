@@ -35,6 +35,8 @@ A curated list of free web resources to kick start learning web development.
 - Learning ECMAScript The Next Generation of Javascript: (https://www.udemy.com/course/ecmascript2015)
 - Build a Quiz App with HTML, CSS, and JavaScript: (https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript)
 - Leveling up to ES6: (https://www.udemy.com/course/leveling-up-to-es6)
+- Basic Coding in JavaScript: (https://www.udemy.com/course/javascript-basics-start-coding-in-5-minutes-2019)
+- JavaScript Introduction: (https://www.edx.org/course/javascript-introduction)
 
 ## Python
 
