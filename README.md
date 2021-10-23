@@ -12,6 +12,7 @@ A curated list of free web resources to kick start learning web development.
 - Learn HTML, CSS, and JavaScript from Scratch: (https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
 - HTML Introduction Course: Learn HTML in 2 hours!!! (https://www.udemy.com/course/html-introduction-course-learn-html-in-2-hours)
 - Learn HTML by Codecademy: (https://www.codecademy.com/learn/learn-html) 
+- Build a Quiz App with HTML, CSS, and JavaScript: (https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript)
 
 ## CSS
 
@@ -20,6 +21,8 @@ A curated list of free web resources to kick start learning web development.
 - Web Development By Doing: HTML / CSS From Scratch: (https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory)
 - Learn HTML & CSS: How To Start Your Web Development Career: (https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing)
 - Learn HTML, CSS, and JavaScript from Scratch: (https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
+- Build a Quiz App with HTML, CSS, and JavaScript: (https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript)
+- 
 
 ## JavaScript
 
@@ -30,6 +33,8 @@ A curated list of free web resources to kick start learning web development.
 - JavaScript for beginners - Quick JavaScript Fundamentals (https://www.udemy.com/course/learn-javascript-fundamentals)
 - Advanced and Object Oriented JavaScript and ES6: (https://www.udemy.com/course/advanced-and-object-oriented-javascript)
 - Learning ECMAScript The Next Generation of Javascript: (https://www.udemy.com/course/ecmascript2015)
+- Build a Quiz App with HTML, CSS, and JavaScript: (https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript)
+- Leveling up to ES6: (https://www.udemy.com/course/leveling-up-to-es6)
 
 ## Python
 
