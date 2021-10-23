@@ -8,17 +8,23 @@ A curated list of free web resources to kick start learning web development.
 - Web Development with HTML & CSS for Beginners: (https://alison.com/course/web-development-with-html-and-css-for-beginners)
 - Master the Basics of HTML5 & CSS3: Beginner Web Development: (https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development)
 - Web Development By Doing: HTML / CSS From Scratch: (https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory)
+- Learn HTML & CSS: How To Start Your Web Development Career: (https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing)
+- Learn HTML, CSS, and JavaScript from Scratch: (https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
+- 
 
 ## CSS
 
 - CSS Tutorial by W3Schools: (https://www.w3schools.com/css/)
 - Master the Basics of HTML5 & CSS3: Beginner Web Development: (https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development)
 - Web Development By Doing: HTML / CSS From Scratch: (https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory)
-- 
+- Learn HTML & CSS: How To Start Your Web Development Career: (https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing)
+- Learn HTML, CSS, and JavaScript from Scratch: (https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
 
 ## JavaScript
 
 - JavaScript Tutorial by W3Schools: (https://www.w3schools.com/js/)
+- Learn HTML, CSS, and JavaScript from Scratch: (https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
+- 
 
 ## Python
 
