@@ -28,6 +28,8 @@ A curated list of free web resources to kick start learning web development.
 - Javascript Essentials: (https://www.udemy.com/course/javascript-essentials)
 - Interactivity with JavaScript: (https://www.coursera.org/learn/javascript)
 - JavaScript for beginners - Quick JavaScript Fundamentals (https://www.udemy.com/course/learn-javascript-fundamentals)
+- Advanced and Object Oriented JavaScript and ES6: (https://www.udemy.com/course/advanced-and-object-oriented-javascript)
+- Learning ECMAScript The Next Generation of Javascript: (https://www.udemy.com/course/ecmascript2015)
 
 ## Python
 
