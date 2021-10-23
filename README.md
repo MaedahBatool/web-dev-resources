@@ -26,6 +26,8 @@ A curated list of free web resources to kick start learning web development.
 - JavaScript Tutorial by W3Schools: (https://www.w3schools.com/js/)
 - Learn HTML, CSS, and JavaScript from Scratch: (https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
 - Javascript Essentials: (https://www.udemy.com/course/javascript-essentials)
+- Interactivity with JavaScript: (https://www.coursera.org/learn/javascript)
+- JavaScript for beginners - Quick JavaScript Fundamentals (https://www.udemy.com/course/learn-javascript-fundamentals)
 
 ## Python
 
