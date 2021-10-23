@@ -11,6 +11,7 @@ A curated list of free web resources to kick start learning web development.
 - Learn HTML & CSS: How To Start Your Web Development Career: (https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing)
 - Learn HTML, CSS, and JavaScript from Scratch: (https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
 - HTML Introduction Course: Learn HTML in 2 hours!!! (https://www.udemy.com/course/html-introduction-course-learn-html-in-2-hours)
+- Learn HTML by Codecademy: (https://www.codecademy.com/learn/learn-html) 
 
 ## CSS
 
