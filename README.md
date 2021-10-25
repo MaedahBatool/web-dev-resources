@@ -55,6 +55,11 @@ A curated list of free web resources to kick start learning web development.
 
 - Git Tutorial: (https://www.w3schools.com/git/)
 
+## Golang
+
+- Golang Tutorial Series: (https://golangbot.com/learn-golang-series/)
+- Learn Go with 1000+ Exercises (https://github.com/inancgumus/learngo)
+
 ## Machine Learning
 
 - Machine Learning by W3Schools: (https://www.w3schools.com/ai/ai_machine_learning.asp)
