@@ -43,8 +43,7 @@ A curated list of free web resources to kick start learning web development.
 ## Python
 
 - Python Tutorial by W3Schools: (https://www.w3schools.com/python/)
-- CS50's Web Programming with Python and JavaScript: (https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
-- 
+- CS50's Web Programming with Python and JavaScript: (https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) 
 
 ## C/C++
 
@@ -54,8 +53,16 @@ A curated list of free web resources to kick start learning web development.
 ## Git
 
 - Git Tutorial: (https://www.w3schools.com/git/)
+- [Introduction to Git and GitHub by coursera](https://www.coursera.org/learn/introduction-git-github)
 
 ## Machine Learning
 
 - Machine Learning by W3Schools: (https://www.w3schools.com/ai/ai_machine_learning.asp)
 - Python Machine Learning: (https://www.w3schools.com/python/python_ml_getting_started.asp)
+
+## TailwindCSS
+
+- [Tailwind CSS - A new way to > THINK < CSS by udmay](https://www.udemy.com/course/tailwindcss-with-examples/)
+- [Learn Tailwind CSS by scrimba](https://scrimba.com/learn/tailwind)
+- [Tailwind Labs by youtube](https://www.youtube.com/tailwindlabs)
+- [Tailwind Resources](https://tailwindcss.com/resources)
