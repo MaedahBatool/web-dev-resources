@@ -48,7 +48,7 @@ A curated list of free web resources to kick start learning web development.
 
 ## C/C++
 
-- C Programming by W3Schools: (https://www.w3schools.in/c-tutorial/)
+- C Programming by W3Schools: (https://www.w3schools.i/c-tutorial/)
 - C++ Programming Tutorial by W3Schools: (https://www.w3schools.com/CPP/default.asp)
 
 ## Git
@@ -60,6 +60,7 @@ A curated list of free web resources to kick start learning web development.
 - Git Started with GitHUb: (https://www.udemy.com/course/git-started-with-github)
 - The Ultimate Git 5-Day Challenge: (https://www.udemy.com/course/the-ultimate-git-5-day-challenge/)
 - Interactive Guide to Git Branching: (https://learngitbranching.js.org/)
+- Command Line Essentials: Git Bash for Windows (https://www.udemy.com/course/git-bash)
 
 ## Machine Learning
 
