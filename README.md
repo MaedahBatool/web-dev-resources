@@ -58,6 +58,7 @@ A curated list of free web resources to kick start learning web development.
 - Version Control with Git: (https://www.udacity.com/course/version-control-with-git--ud123)
 - Learn Git: (https://www.codecademy.com/learn/learn-git)
 - Git Started with GitHUb: (https://www.udemy.com/course/git-started-with-github)
+- The Ultimate Git 5-Day Challenge: (https://www.udemy.com/course/the-ultimate-git-5-day-challenge/)
 
 ## Machine Learning
 
