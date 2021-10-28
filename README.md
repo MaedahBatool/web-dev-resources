@@ -58,6 +58,7 @@ A curated list of free web resources to kick start learning web development.
 - C++ Programming Tutorial by W3Schools: (https://www.w3schools.com/CPP/default.asp)
 - C++ Tutorial for Complete Beginners: (https://www.udemy.com/course/free-learn-c-tutorial-beginners)
 - Learn C++ From Scratch: (https://www.educative.io/courses/learn-cpp-from-scratch)
+- C++, Short and Sweet, Part 1: (https://www.udemy.com/course/cpp-short-and-sweet)
 
 ## Git
 
