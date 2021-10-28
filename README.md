@@ -55,6 +55,7 @@ A curated list of free web resources to kick start learning web development.
 
 - Git Tutorial: (https://www.w3schools.com/git/)
 - Git: Become an Expert in Git & GitHub in 4 Hours: (https://www.udemy.com/course/git-expert-4-hours/)
+- Version Control with Git: (https://www.udacity.com/course/version-control-with-git--ud123)
 
 ## Machine Learning
 
