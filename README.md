@@ -46,6 +46,7 @@ A curated list of free web resources to kick start learning web development.
 - CS50's Web Programming with Python and JavaScript: (https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 - Introduction to Python Programming: (https://www.udemy.com/course/pythonforbeginnersintro)
 - Python for Beginner: (https://www.udemy.com/course/python-hackcc)
+- Learn Python from Scratch by Educative: (https://www.educative.io/courses/learn-python-3-from-scratch)
 - 
 
 ## C/C++
