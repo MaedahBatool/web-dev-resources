@@ -61,6 +61,7 @@ A curated list of free web resources to kick start learning web development.
 - The Ultimate Git 5-Day Challenge: (https://www.udemy.com/course/the-ultimate-git-5-day-challenge/)
 - Interactive Guide to Git Branching: (https://learngitbranching.js.org/)
 - Command Line Essentials: Git Bash for Windows (https://www.udemy.com/course/git-bash)
+- Learn Git with BitBucket Cloud: (https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
 ## Machine Learning
 
