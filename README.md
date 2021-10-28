@@ -47,6 +47,7 @@ A curated list of free web resources to kick start learning web development.
 - Introduction to Python Programming: (https://www.udemy.com/course/pythonforbeginnersintro)
 - Python for Beginner: (https://www.udemy.com/course/python-hackcc)
 - Learn Python from Scratch by Educative: (https://www.educative.io/courses/learn-python-3-from-scratch)
+- Python for Everybody by Coursera: (https://www.coursera.org/learn/python)
 - 
 
 ## C/C++
