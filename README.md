@@ -69,6 +69,7 @@ A curated list of free web resources to kick start learning web development.
 - Python for Everybody by Coursera: (https://www.coursera.org/learn/python)
 - Learn Python Data Structures: (https://www.coursera.org/learn/python-data)
 - Using Databases with Python: (https://www.coursera.org/learn/python-databases)
+- CS50's Introduction to Artificial Intelligence with Python: (https://online-learning.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
 - 
 
 ## C/C++
