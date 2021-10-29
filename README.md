@@ -55,6 +55,7 @@ A curated list of free web resources to kick start learning web development.
 - Prototypes and Inheritence in JS: (https://javascript.info/prototypes)
 - Classes in JavaScript: (https://javascript.info/classes)
 - Error Handling in JavaScript: (https://javascript.info/error-handling)
+- Promises Async/Await in JavaScript: (https://javascript.info/async)
 
 ## Python
 
