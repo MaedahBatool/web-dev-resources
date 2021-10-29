@@ -15,6 +15,7 @@ A curated list of free web resources to kick start learning web development.
 - Build a Quiz App with HTML, CSS, and JavaScript: (https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript)
 - Foundations of Front-end Web Development: (https://www.udemy.com/course/foundations-of-front-end-development)
 - Learn HTML & CSS: How To Start Your Web Development Career: (https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing)
+- Master the Basics of HTML5 & CSS3: Beginner Web Development: (https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development)c
 
 ## CSS
 
@@ -24,6 +25,7 @@ A curated list of free web resources to kick start learning web development.
 - Learn HTML & CSS: How To Start Your Web Development Career: (https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing)
 - Learn HTML, CSS, and JavaScript from Scratch: (https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
 - Build a Quiz App with HTML, CSS, and JavaScript: (https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript)
+- Master the Basics of HTML5 & CSS3: Beginner Web Development: (https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development)
 - 
 
 ## JavaScript
