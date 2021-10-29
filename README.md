@@ -14,6 +14,7 @@ A curated list of free web resources to kick start learning web development.
 - Learn HTML by Codecademy: (https://www.codecademy.com/learn/learn-html) 
 - Build a Quiz App with HTML, CSS, and JavaScript: (https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript)
 - Foundations of Front-end Web Development: (https://www.udemy.com/course/foundations-of-front-end-development)
+- Learn HTML & CSS: How To Start Your Web Development Career: (https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing)
 
 ## CSS
 
