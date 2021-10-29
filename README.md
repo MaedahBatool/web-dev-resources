@@ -81,3 +81,4 @@ A curated list of free web resources to kick start learning web development.
 - Free Machine Learning Course by Fast.ai: (https://www.fast.ai/)
 - Machine Learning by Stanford: (coursera.org/learn/machine-learning)
 - Deep Learning Course: (https://www.coursera.org/specializations/deep-learning)
+- Intro to Machine Learning with PyTorch: (https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
