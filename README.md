@@ -54,6 +54,7 @@ A curated list of free web resources to kick start learning web development.
 - Object Properties Configuration: (https://javascript.info/object-properties)
 - Prototypes and Inheritence in JS: (https://javascript.info/prototypes)
 - Classes in JavaScript: (https://javascript.info/classes)
+- Error Handling in JavaScript: (https://javascript.info/error-handling)
 
 ## Python
 
