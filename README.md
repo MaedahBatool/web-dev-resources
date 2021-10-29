@@ -56,6 +56,7 @@ A curated list of free web resources to kick start learning web development.
 - Classes in JavaScript: (https://javascript.info/classes)
 - Error Handling in JavaScript: (https://javascript.info/error-handling)
 - Promises Async/Await in JavaScript: (https://javascript.info/async)
+- Generators, Advanced Iterations in JavaScript: (https://javascript.info/generators-iterators)
 
 ## Python
 
