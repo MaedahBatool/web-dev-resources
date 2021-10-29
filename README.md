@@ -90,6 +90,11 @@ A curated list of free web resources to kick start learning web development.
 - Command Line Essentials: Git Bash for Windows (https://www.udemy.com/course/git-bash)
 - Learn Git with BitBucket Cloud: (https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
+## Golang
+
+- Golang Tutorial Series: (https://golangbot.com/learn-golang-series/)
+- Learn Go with 1000+ Exercises (https://github.com/inancgumus/learngo)
+
 ## Machine Learning
 
 - Machine Learning by W3Schools: (https://www.w3schools.com/ai/ai_machine_learning.asp)
