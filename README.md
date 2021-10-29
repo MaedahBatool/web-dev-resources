@@ -50,6 +50,7 @@ A curated list of free web resources to kick start learning web development.
 - Code Quality in JavaScript: (https://javascript.info/first-steps)
 - Objects in JavaScript: (https://javascript.info/object-basics)
 - Data Types in JavaScript: (https://javascript.info/data-types)
+- Advanced Working with Funcions in JavaScript: (https://javascript.info/advanced-functions)
 
 ## Python
 
