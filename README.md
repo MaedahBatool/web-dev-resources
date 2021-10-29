@@ -17,6 +17,7 @@ A curated list of free web resources to kick start learning web development.
 - Learn HTML & CSS: How To Start Your Web Development Career: (https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing)
 - Master the Basics of HTML5 & CSS3: Beginner Web Development: (https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development)
 - HTML5 Simple Game Programming Preparation: (https://www.udemy.com/course/free-prep-for-html5-game-development)
+- A Complete Introductory Tutorial on HTML5: (https://www.udemy.com/course/introductory-tutorial-html5)
 
 ## CSS
 
