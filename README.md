@@ -45,6 +45,7 @@ A curated list of free web resources to kick start learning web development.
 - JavaScript Introduction: (https://www.edx.org/course/javascript-introduction)
 - Introduction to JavaScript: First Steps: (https://www.educative.io/courses/introduction-to-javascript-first-steps)
 - CS50's Web Programming with Python and JavaScript: (https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+- An Introduction to JavaScript: (https://javascript.info/getting-started)
 
 ## Python
 
