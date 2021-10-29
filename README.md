@@ -48,6 +48,7 @@ A curated list of free web resources to kick start learning web development.
 - An Introduction to JavaScript: (https://javascript.info/getting-started)
 - JavaScript Fundamentals: (https://javascript.info/first-steps)
 - Code Quality in JavaScript: (https://javascript.info/first-steps)
+- Objects in JavaScript: (https://javascript.info/object-basics)
 
 ## Python
 
