@@ -79,3 +79,4 @@ A curated list of free web resources to kick start learning web development.
 - Machine Learning by W3Schools: (https://www.w3schools.com/ai/ai_machine_learning.asp)
 - Python Machine Learning: (https://www.w3schools.com/python/python_ml_getting_started.asp)
 - Free Machine Learning Course by Fast.ai: (https://www.fast.ai/)
+- Machine Learning by Stanford: (coursera.org/learn/machine-learning)
