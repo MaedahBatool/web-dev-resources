@@ -13,6 +13,7 @@ A curated list of free web resources to kick start learning web development.
 - HTML Introduction Course: Learn HTML in 2 hours!!! (https://www.udemy.com/course/html-introduction-course-learn-html-in-2-hours)
 - Learn HTML by Codecademy: (https://www.codecademy.com/learn/learn-html) 
 - Build a Quiz App with HTML, CSS, and JavaScript: (https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript)
+- Foundations of Front-end Web Development: (https://www.udemy.com/course/foundations-of-front-end-development)
 
 ## CSS
 
