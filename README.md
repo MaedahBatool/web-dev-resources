@@ -51,6 +51,7 @@ A curated list of free web resources to kick start learning web development.
 - Objects in JavaScript: (https://javascript.info/object-basics)
 - Data Types in JavaScript: (https://javascript.info/data-types)
 - Advanced Working with Funcions in JavaScript: (https://javascript.info/advanced-functions)
+- Object Properties Configuration: (https://javascript.info/object-properties)
 
 ## Python
 
