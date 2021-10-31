@@ -104,3 +104,7 @@ A curated list of free web resources to kick start learning web development.
 - Deep Learning Course: (https://www.coursera.org/specializations/deep-learning)
 - Intro to Machine Learning with PyTorch: (https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
 - Machine Learning by Stannford School of Engineering: (https://online.stanford.edu/courses/cs229-machine-learning)
+
+## Java
+
+- Data Structures in Java for Noobs: (https://www.udemy.com/course/data-structures-in-java-for-noobs-lite-edition-algorithms-beginners)
