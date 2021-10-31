@@ -113,3 +113,4 @@ A curated list of free web resources to kick start learning web development.
 - Data Structures in Java: (https://www.udemy.com/course/data-structures-part-1-lognacademy)
 - Java Programming: Solving Problems with Software: (https://www.coursera.org/learn/java-programming)
 - Web Development with Java Spring Framework: (https://www.coursera.org/learn/web-development-with-java-spring-framework)
+- Learn Java from Scratch: (https://www.educative.io/courses/learn-java-from-scratch)
