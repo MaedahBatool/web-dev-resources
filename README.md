@@ -111,3 +111,4 @@ A curated list of free web resources to kick start learning web development.
 
 - Data Structures in Java for Noobs: (https://www.udemy.com/course/data-structures-in-java-for-noobs-lite-edition-algorithms-beginners)
 - Data Structures in Java: (https://www.udemy.com/course/data-structures-part-1-lognacademy)
+- Java Programming: Solving Problems with Software: (https://www.coursera.org/learn/java-programming)
