@@ -82,6 +82,7 @@ A curated list of free web resources to kick start learning web development.
 - C++ Programming Basics: (https://www.udemy.com/course/c-plus-plus-programming-basics)
 - Beginning C++ Templates: (https://www.udemy.com/course/beg-cpp-temp)
 - Data Structures Concepts & Singly Linked List Implementation: (https://www.udemy.com/course/data-structures-in-c)
+- Algoithms, Part 1: (https://www.coursera.org/learn/algorithms-part1)
 
 ## Git
 
