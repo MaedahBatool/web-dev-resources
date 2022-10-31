@@ -20,7 +20,7 @@ A curated list of free web resources to kick start learning web development.
 - A Complete Introductory Tutorial on HTML5: (https://www.udemy.com/course/introductory-tutorial-html5)
 - Building Websites with HTML, CSS and JavaScript: (https://www.pluralsight.com/paths/building-websites-with-html-css-and-javascript)
 - Learn to Code HTML & CSS: (https://learn.shayhowe.com/html-css/)
-
+- HTML full begineers tutorials: (https://www.javatpoint.com/html-tutorial)
 ## CSS
 
 - CSS Tutorial by W3Schools: (https://www.w3schools.com/css/)
@@ -30,7 +30,7 @@ A curated list of free web resources to kick start learning web development.
 - Learn HTML, CSS, and JavaScript from Scratch: (https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
 - Build a Quiz App with HTML, CSS, and JavaScript: (https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript)
 - Master the Basics of HTML5 & CSS3: Beginner Web Development: (https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development)
-- 
+- CSS full begineers tutorials: (https://www.javatpoint.com/css-tutorial)
 
 ## JavaScript
 
@@ -60,6 +60,7 @@ A curated list of free web resources to kick start learning web development.
 - Promises Async/Await in JavaScript: (https://javascript.info/async)
 - Generators, Advanced Iterations in JavaScript: (https://javascript.info/generators-iterators)
 - Modules in JavaScript: (https://javascript.info/modules)
+- Javascript full begineers tutorials: (https://www.javatpoint.com/javascript-tutorial)
 
 ## Python
 
@@ -72,6 +73,7 @@ A curated list of free web resources to kick start learning web development.
 - Learn Python Data Structures: (https://www.coursera.org/learn/python-data)
 - Using Databases with Python: (https://www.coursera.org/learn/python-databases)
 - CS50's Introduction to Artificial Intelligence with Python: (https://online-learning.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
+- Python full begineers tutorials: (https://www.javatpoint.com/python-tutorial)
 - 
 
 ## C/C++
@@ -85,6 +87,7 @@ A curated list of free web resources to kick start learning web development.
 - Beginning C++ Templates: (https://www.udemy.com/course/beg-cpp-temp)
 - Data Structures Concepts & Singly Linked List Implementation: (https://www.udemy.com/course/data-structures-in-c)
 - Algoithms, Part 1: (https://www.coursera.org/learn/algorithms-part1)
+- C++ full begineers tutorials: (https://www.javatpoint.com/cpp-tutorial)
 
 ## Git
 
@@ -117,3 +120,4 @@ A curated list of free web resources to kick start learning web development.
 - Web Development with Java Spring Framework: (https://www.coursera.org/learn/web-development-with-java-spring-framework)
 - Learn Java from Scratch: (https://www.educative.io/courses/learn-java-from-scratch)
 - Java Programming: (https://testautomationu.applitools.com/java-programming-course/)
+- Java full begineers tutorials: (https://www.javatpoint.com/java-tutorial)
